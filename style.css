@@ -1,0 +1,23 @@
+body {
+    background-color: #7dabe0;
+}
+}
+
+.btn-primary {
+    background-color:#236bbd;
+    color: #ffff;
+}
+.btn-primary:hover{
+    background-color:transparent;
+    color:#236bbd;
+    border: 2px solid #236bbd;
+}
+.btn-success {
+    background-color:#23bd9c;
+    color: #ffff;
+}
+.btn-success:hover{
+    background-color:transparent;
+    color:#ffff;
+    border: 2px solid #23bd9c;
+}
